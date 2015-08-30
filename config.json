@@ -3,7 +3,7 @@
         "database": "scratch",
         "user": "scratchuser",
         "password": "scratch2015",
-        "host": "scratch.cbwjb7fv2vay.us-west-2.rds.amazon.com",
+        "host": "scratch.cbwjb7fv2vay.us-west-2.rds.amazonaws.com",
         "port": "3306"
     },
     "server": {
