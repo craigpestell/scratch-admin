@@ -6,9 +6,9 @@
         "host": "scratch.cbwjb7fv2vay.us-west-2.rds.amazonaws.com",
         "port": "3306"
     },
-    
+
     "server": {
-        "port": 3002 
+
     },
     "app": {
         "layouts": true,
